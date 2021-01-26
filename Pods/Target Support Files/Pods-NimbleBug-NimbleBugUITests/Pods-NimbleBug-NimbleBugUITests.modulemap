@@ -1,0 +1,6 @@
+framework module Pods_NimbleBug_NimbleBugUITests {
+  umbrella header "Pods-NimbleBug-NimbleBugUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

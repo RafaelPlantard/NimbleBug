@@ -1,0 +1,6 @@
+framework module Pods_NimbleBugTests {
+  umbrella header "Pods-NimbleBugTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
